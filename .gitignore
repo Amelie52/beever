@@ -1,0 +1,8 @@
+.idea/
+config.inc.php.dist
+config.inc.php.local
+projects/upload/
+members/upload/
+htaccess
+htpasswd
+photos/
